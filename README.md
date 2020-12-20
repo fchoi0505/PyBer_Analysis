@@ -47,7 +47,7 @@ No challenges were encountered during the analysis. But assumptions or additiona
 
 ## Summary
 
-Based on the data findings, the following business recommendations are made to address the disparities between the city types:
+Based on the data findings, the following business recommendation options are proposed to address the disparities between the city types:
 
 1. To increase the average fare per driver in the urban city type, a possible option is to reduce the number of drivers.  There are 3.7 times more urban cities than rural cities, but there are approximately 30 times more drivers in urban cities than in rural cities. Though this increases the number of rides performed in urban cities, it decreasing the average fare per driver which in turn diminishing the driver's work motivation as they must take on even more rides to narrow the disparity with suburban and rural drivers.
 
