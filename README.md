@@ -33,7 +33,7 @@ For the city data, the highest count of cities was in the urban type with the lo
 Total fare tracked per week for January through April 2019 by city type:  As summarized above, the fare total by city type graph shows that urban cities have the highest fare total with rural cities the lowest and suburban cities in the middle.  Additionally, as noted above, the total fare between city types is distinctly different and do not intersect (order of magnitude difference). The disparity between city types exists at various levels, in addition to total fare, such as with total rides, total drivers, and average fare.
 
 
-#### Weekly Fare Total by City Type
+#### Fare Total by City Type
 ![](images/PyBer_fare_summary.png)
 
 
